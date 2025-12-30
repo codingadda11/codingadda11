@@ -30,8 +30,6 @@ My goal is to make **coding simple, clean, and fun** 💡
 ---
 
 
----
-
 ## ⭐ Support
 If you find my projects helpful,
 **don’t forget to give a ⭐ to the repositories** — it really helps!
@@ -44,7 +42,7 @@ If you find my projects helpful,
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingadda11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@codingadda-ca?si=3LZhPeeGzCmNIlrt) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingadda11) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingadda-ca?si=3LZhPeeGzCmNIlrt) 
 
 <!-- Snake Game Repo View -->
 
